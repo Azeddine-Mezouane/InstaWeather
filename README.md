@@ -1,3 +1,5 @@
+👉 Try it here: [https://insta-weather-olive.vercel.app](https://insta-weather-olive.vercel.app)
+
 # ☀️ InstaWeather
 
 **InstaWeather** is a sleek and minimal weather web app built with React and Tailwind CSS.  
@@ -41,14 +43,3 @@ All data is retrieved from the [OpenWeatherMap API](https://openweathermap.org/c
 - [Iconify](https://iconify.design/) — weather-related icons
 
 ---
-
-## 📌 Project Status
-
-This is a personal and educational project, open to enhancements like:
-
-- 5-day forecast support
-- Geolocation-based weather
-- Dark mode toggle
-- Multi-language support
-
-
